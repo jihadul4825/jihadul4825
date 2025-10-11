@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Jihadul Islam
 **A passionate Backend & DevOps Learner || Building APIs with Django || Exploring Django, DevOps & Cloud Technologies**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Building REST APIs with Django and learning how to deploy them using CI/CD
 - 🌱 **I’m currently learning:** Django, Python, Docker, Git, Linux, CI/CD, and Cloud Fundamentals
 - 👯 **I’m looking to collaborate on:** Open-source backend or DevOps projects to gain hands-on experience
